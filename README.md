@@ -1,2 +1,2 @@
 # Django_s3_storage
-AWS S3  integration
+This is a python django application with AWS S3  integration.
